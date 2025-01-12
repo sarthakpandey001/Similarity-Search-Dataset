@@ -1,0 +1,1 @@
+Fetal Heart Rate Variability is defined as  fluctuations in the fetal heart rate of more than 2 cycles per minute. No distinction is made between short-term variability (or beat-to-beat variability or R-R wave period differences in the electrocardiogram) and long-term variability.

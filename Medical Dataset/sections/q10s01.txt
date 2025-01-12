@@ -1,0 +1,1 @@
+Time, in minutes from the beginning of one contraction to the beginning of the next contraction. Frequency is generally evaluated over a minimum of 10 min.
