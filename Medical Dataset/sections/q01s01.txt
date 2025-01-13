@@ -1,1 +1,4 @@
-An acceleration is a visually apparent abrupt increase in FHR. Abrupt increase is defined as an increase from onset of acceleration to peak is <30 seconds. Peak must be ≥15 bpm, must last ≥15 seconds, but <2 minutes from the onset to return
+Based on visual assessment, an acceleration is defined as an abrupt increase of at least 15 beats per minute in fetal heart rate above the baseline. Onset to peak is less than 30 seconds and duration is equal to or more than 15 seconds and less than two minutes from onset to return to baseline.
+In pregnancies less than 32 weeks gestation, accelerations are defined as an increase of 10 beats per minute or more above baseline which lasts 10 seconds or more. 
+An acceleration is classified as prolonged if the duration is 2 minutes or more but less than 10 minutes.
+Accelerations that are 10 minutes or more are considered a baseline change 

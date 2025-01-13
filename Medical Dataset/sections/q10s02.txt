@@ -1,2 +1,1 @@
 Time, in minutes from the beginning of one contraction to the beginning of the next contraction. Frequency is generally evaluated over a minimum of 10 min.
-Frequency is considered normal when there are ≤5 contractions in 10 min, averaged over 30 min. A frequency of >5 contractions in 10 min averaged over 30 min is tachysystole. These terms apply to both spontaneous and stimulated labors

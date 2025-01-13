@@ -1,1 +1,12 @@
-Tracings in this category are not predictive of abnormal acid-base status, however there are insufficient data to classify them as either category I or category III
+All tracings not categorized as category I or III. May represent many tracings that are encountered in everyday clinical practice.
+
+Some examples where a tracing can be classified as a Category II tracing
+• Minimal variability
+• Absent variability without recurrent decelerations
+• Marked variability
+• Absence of induced accelerations after fetal stimulation
+• Recurrent variable decelerations with minimal or
+moderate variability
+• Prolonged deceleration
+• Recurrent late decelerations with moderate variability
+• Variable decelerations with “slow return to baseline”, “overshoots” or “shoulders

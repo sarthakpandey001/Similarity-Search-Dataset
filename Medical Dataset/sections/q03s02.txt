@@ -1,1 +1,5 @@
-An early deceleration is a visually apparent, usually symmetrical, gradual decrease and return of FHR associated with a uterine contraction. The gradual FHR decrease is defined as one from the onset to FHR nadir of ≥30 seconds. The decrease in FHR is calculated from onset to nadir of deceleration. The nadir of the deceleration occurs at the same time as the peak of the contraction. In most cases, the onset, nadir, and recovery of the deceleration are coincident with the beginning, peak, and ending of the contraction, respectively
+Based on visual assessment, an early deceleration is
+defined as a usually symmetrical, gradual decrease
+in fetal heart rate and return to baseline associated
+with uterine contractions. Onset to nadir is equal to
+or greater than 30 seconds. The nadir of the deceleration usually occurs at the same time of the peak of the contraction

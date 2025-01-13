@@ -1,1 +1,1 @@
-Fetal Heart Rate Variability is determined in a 10-minute window, excluding accelerations and decelerations. Fluctuations in the baseline FHR that are irregular in amplitude and frequency and are visually quantified as the amplitude of the peak-to-trough in bpm.
+Fetal Heart Rate variability is defined as fluctuations in the fetal heart rate baseline that are irregular in amplitude and frequency 
