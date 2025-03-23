@@ -1,1 +1,1 @@
-# Similarity-Search-Dataset
+In this Repositary we have provided the Both Medical and Non-Medical Datasets , along with that we have provided the vector embeddings of question , sections of all in the each dataset.along with these we have provided the similarity scores before training and after training for each question.
